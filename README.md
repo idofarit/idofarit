@@ -40,7 +40,7 @@
 
 
 ## 📌 Pinned Repositories
-
+<div align="center">
 <br>
 
 <a href="https://github.com/idofarit/bookingHandling.git">
@@ -58,15 +58,10 @@
   <img align="center" style="margin:0.5rem" src="https://drive.google.com/uc?id=16_lUuWpB2YZGijG_GaSsIjmA5rt5L85U" />
 </a>
 
-
-
 <br>
 <a href="https://github.com/idofarit/socialInteracting.git">
   <img align="center" style="margin:0.5rem" src="https://drive.google.com/uc?id=1j_Ea5WhxpTblwij3E2QNffVJirDf296P" />
 </a>
 
-
-
-
-
 <br>
+</div>
